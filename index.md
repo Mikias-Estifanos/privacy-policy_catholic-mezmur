@@ -1,6 +1,6 @@
 # Privacy Policy for Catholic Hymn Book App
 
-**Effective Date:** [Oct 1 2023]
+**Effective Date:** Oct 1 2023
 
 Welcome to the Catholic Hymn Book App. Your privacy is critically important to us. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app.
 
@@ -28,4 +28,4 @@ Welcome to the Catholic Hymn Book App. Your privacy is critically important to u
 - We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## 7. Contact Us:
-- If you have any questions or concerns about this Privacy Policy, please contact us at: [catholicmezmurapp.gmail.com].
+- If you have any questions or concerns about this Privacy Policy, please contact us at: [contact us](catholicmezmurapp@gmail.com).
