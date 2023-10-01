@@ -1,6 +1,8 @@
 # Privacy Policy for Catholic Hymn Book App
 
-**Effective Date:** Oct 1 2023
+**Version:** 1.0  
+**Effective Date:** Oct 1 2023  
+**Last Updated:** Oct 1 2023
 
 Welcome to the Catholic Hymn Book App. Your privacy is critically important to us. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app.
 
@@ -29,3 +31,8 @@ Welcome to the Catholic Hymn Book App. Your privacy is critically important to u
 
 ## 7. Contact Us:
 - If you have any questions or concerns about this Privacy Policy, please contact us at: [contact us](catholicmezmurapp@gmail.com).
+
+## 8. External Data Transmission:
+- **Image Uploads to External Server:** Our app utilizes an external server hosted at `https://fonts.gstatic.com` for certain functionalities. When you upload images through our app, these images are transmitted and temporarily stored on this external server. We ensure that all transmitted data is secured and protected. The server is solely used for processing purposes and all images are deleted after processing is completed.
+
+Please note that by using our app and agreeing to this Privacy Policy, you consent to this data transmission and storage process. If you have any concerns regarding this process, feel free to [contact us](catholicmezmurapp@gmail.com).
