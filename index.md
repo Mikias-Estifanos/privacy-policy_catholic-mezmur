@@ -40,3 +40,8 @@ Please note that by using our app and agreeing to this Privacy Policy, you conse
 
 ## 8. Contact Us:
 - If you have any questions or concerns about this Privacy Policy, please contact us at: [contact us](catholicmezmurapp@gmail.com).
+- 
+## 9. Data Deletion Request:
+
+To request the deletion of your account data, please follow the instructions on our [Data Deletion Request](data_deletion.md) page.
+
